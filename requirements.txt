@@ -1,2 +1,6 @@
-Django
-gunicorn
+asgiref 
+Django 
+python-dateutil
+six
+sqlparse
+tzdata
